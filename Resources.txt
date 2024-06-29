@@ -4,5 +4,5 @@ https://archive.ics.uci.edu/datasets
 https://www.kaggle.com/datasets
 https://datasetsearch.research.google.com/
 https://es.statista.com/
-
-
+https://dataverse.harvard.edu/
+https://es.tradingeconomics.com/
