@@ -1,0 +1,7 @@
+Datasets:
+
+https://archive.ics.uci.edu/datasets
+https://www.kaggle.com/datasets
+https://datasetsearch.research.google.com/
+
+
