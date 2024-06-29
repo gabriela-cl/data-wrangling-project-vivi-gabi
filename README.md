@@ -1,4 +1,4 @@
-# project_vivi-gabi
+# data-wrangling-project-vivi-gabi
 Project 1 - week 3
 Title of the project
 Introduction to your project.
