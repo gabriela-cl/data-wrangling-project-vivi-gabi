@@ -29,4 +29,5 @@ Weaknesses: Our main data frame had many useful data, but it unfortunatelly didn
 
 
 Links to the presentation: 
+
 Linto to our Kanban (on Monday Board): https://gabrielacloliveiras-team.monday.com/boards/1548354259
