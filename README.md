@@ -34,7 +34,7 @@ From our data we could confirm the following hypotheses:
 
 - The stress levels are related to health habits. Stressed people eat less fruits & vegetables, are less active, sleep less hours and have a higher BMI.
 
-- We could not conclude from our data, that the perception of stress can be influenced by external global events. It was not possible to see that people experience more stress globally, in 2018 (world economic crisis) and 2020 (Covid pandemie). It would be may be meaningful to know where the person who answer the survey lived.
+- We could not conclude from our data, that the perception of stress can be influenced by external global events. It was not possible to see that people experience more stress globally, for example 2020 (Covid pandemie). It would be may be meaningful to know where the person who answer the survey lived.
 
 Weaknesses: Our main data frame had many categorical data. It would be interesting to have also more numerical data available for further statistical analysis. Besides, it didn't specify the country where the person  answering the survey lives (it only mentions it's a global survey). Therefore we could only used global data to make comparisons, altough this topic is also related whith the conditions people leave (by country). We think that more insightful findinds could been explored and answered using demographic information.
 
