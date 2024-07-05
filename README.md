@@ -1,5 +1,6 @@
 # data-wrangling-project-vivi-gabi
-Project 1 - week 3: **Stress, Lifestyle & Wellbeing**
+Project 1 - week 3: 
+**Correlations between Stress, Lifestyle & Wellbeing**
 
 Gabriela Clemente de Oliveira & Karoll Viviana López Villegas
 
