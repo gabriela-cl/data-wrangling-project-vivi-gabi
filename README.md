@@ -39,4 +39,4 @@ Weaknesses: Our main data frame had many categorical data. It would be interesti
 
 Lins to the presentation: https://docs.google.com/presentation/d/1k0N_-anYytKsmzY3LG-GUFyC0ymjAcfbZ9q0yASVdwM/edit#slide=id.g2ea263c496b_2_47
 
-Link to our Kanban (on Monday Board): https://gabrielacloliveiras-team.monday.com/boards/1548354259
+Link to Kanban (on Monday Board): https://gabrielacloliveiras-team.monday.com/boards/1548354259
