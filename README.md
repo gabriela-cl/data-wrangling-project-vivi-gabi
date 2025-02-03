@@ -1,4 +1,4 @@
-# data-wrangling-project-vivi-gabi
+# data-wrangling-project
 Project 1 - week 3: 
 **Correlations between Stress, Lifestyle & Wellbeing**
 
